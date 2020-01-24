@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageView2</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_txt">Load Image</string>
+</resources>
